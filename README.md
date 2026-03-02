@@ -1,13 +1,3 @@
-Perfect 👌 this is exactly the right time to write a solid README.
-You’ve built the core engine — now we document it properly.
-
-Below is a **clean, detailed, professional README.md** you can directly paste into your repo.
-
----
-
-# 📘 README.md
-
-```markdown
 # 🧠 Minimal In-Memory Raft Key-Value Store (Rust)
 
 A fully functional, in-memory distributed Key-Value store built using the Raft consensus algorithm in Rust.
